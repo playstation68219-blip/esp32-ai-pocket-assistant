@@ -1,0 +1,45 @@
+# ESP32 / Arduino / PlatformIO
+.pio/
+.pioenvs/
+.piolibdeps/
+.vscode/
+*.pyc
+__pycache__/
+
+# Build output
+build/
+*.elf
+*.map
+*.hex
+
+# IDE
+.idea/
+*.iml
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
